@@ -1,0 +1,44 @@
+.text1{
+    font-weight: bold;
+    text-decoration-line: line-through;
+    color: brown;
+}
+.text2{
+    font-weight: bold;
+    background-color: yellow;
+    color: brown;
+}
+.text3{
+    color: brown;
+    font-weight: normal;
+}
+.text4{
+    color: brown;
+    text-decoration-line: underline;
+    font-style: italic;
+
+}
+#class1{
+    color: brown;
+    letter-spacing: 4px;
+}
+#class2{
+    color: brown;
+    letter-spacing: 4px;
+
+}
+#class3{
+    background-color: yellow;
+    color: brown;
+    font-weight: bold;
+}
+#class4{
+    color: brown;
+    letter-spacing: 4px;
+}
+#class5{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
